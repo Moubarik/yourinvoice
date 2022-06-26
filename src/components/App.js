@@ -45,9 +45,7 @@ function App() {
 
   return (
     <>
-      // <div className="beta__tag">
-      //   <p className="text-white font-bold uppercase tracking-widest">Beta</p>
-      // </div>
+    
       <main className="m-5 p-5 xl:grid grid-cols-2 gap-10 xl:items-start">
         <section>
           <div className="bg-white p-5 rounded shadow">
